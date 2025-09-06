@@ -78,7 +78,7 @@ Deployment steps:
 4. After starting the service, you can open Coze Studio by accessing `http://localhost:8888/` through your browser.
 
 
-## Developer Guide
+## Developer Guide:-
 
 * **Project Configuration**:
    * [Model Configuration](https://github.com/coze-dev/coze-studio/wiki/3.-Model-configuration): Before deploying the open-source version of Coze Studio, you must configure the model service. Otherwise, you cannot select models when building agents, workflows, and apps.
